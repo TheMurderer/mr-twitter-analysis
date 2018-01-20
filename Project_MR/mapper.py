@@ -11,9 +11,7 @@ sys.path.append(".")
 
 mood_dict = {}
 NUM_API=1
-API_KEY = ['AIzaSyBDhSjPyfDuhDXWu6IQVBVaWXZvFyesklU','AIzaSyCboEraLd2Rs4a9aJ7862UEBXRCNIl2aks',
-           'AIzaSyBF783HUjBB6FUpuSyeqn-hfoRgbgU4Ln4','AIzaSyAg4JwdE9pZEyqKmUPNtjJW1-nVQArP3Aw',
-           'AIzaSyAxvN1DTFwWjOPJ_1WGfrJTftKPS-elMAU','AIzaSyBOzXITcyEdNZ5LrJc_MLxshj3bEfv48HI']
+API_KEY = [Introduce tus APIS KEYS]
 COUNTRY = 'United States'
 #Debug: bad_string = 0
 body_str=None
